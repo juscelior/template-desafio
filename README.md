@@ -1,6 +1,12 @@
 
 # Desafio técnico
 
+## Primeiro passo
+
+Para iniciar, crie um Fork desse template e mande a url nova para a pessoa que solicitou esse desafio.
+
+## Questões do desafio
+
 Esse projeto é composto por 4 desafios, sendo 3 como teste unitário e 1 como teste de integração.
 
 Dentro da pasta Test existem 2 arquivos .cs para esse desafio. 
@@ -12,3 +18,7 @@ Dentro da pasta Test existem 2 arquivos .cs para esse desafio.
 
 - IntegrationTests.cs
     - Test_desafio_04_get_return_200
+
+
+
+
